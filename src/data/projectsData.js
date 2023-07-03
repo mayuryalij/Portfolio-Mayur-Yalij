@@ -30,15 +30,6 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Todo App',
-        projectDesc: 'It allows users to manage their tasks by adding, editing, and deleting them. The app fetches data from a backend API and displays the tasks in a table format.',
-        tags: [ 'JavaScript', 'HTML', 'CSS', 'React', 'Express', 'MongoDB', 'Axios', 'Bootstrap'],
-        code: 'https://github.com/mayuryalij/Todo-App',
-        demo: 'https://todo-app-h843.onrender.com/',
-        image: 'https://i.ibb.co/jHYjRf6/Project5.png'
-    },
-    {
-        id: 4,
         projectName: 'Netflix-Clone',
         projectDesc: 'A Netflix clone project built with React.',
         tags: ['Reactjs', 'JavaScript', 'HTML', 'CSS'],
@@ -46,6 +37,16 @@ export const projectsData = [
         demo: 'https://mayuryalij.github.io/Netflix-Clone/',
         image: 'https://i.ibb.co/mRyJBkr/Project3.png'
     },
+    {
+        id: 4,
+        projectName: 'Todo App',
+        projectDesc: 'It allows users to manage their tasks by adding, editing, and deleting them. The app fetches data from a backend API and displays the tasks in a table format.',
+        tags: [ 'JavaScript', 'HTML', 'CSS', 'React', 'Express', 'MongoDB', 'Axios', 'Bootstrap'],
+        code: 'https://github.com/mayuryalij/Todo-App',
+        demo: 'https://todo-app-h843.onrender.com/',
+        image: 'https://i.ibb.co/jHYjRf6/Project5.png'
+    },
+    
     {
         id: 5,
         projectName: 'Captcha Generator',
