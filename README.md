@@ -1,13 +1,10 @@
-# Portfolio - Mayur Yalij
+# Portfolio - Mayur Yalij [Click here](https://portfolio-mayur-yalij.onrender.com/)
 
 This is the repository for my portfolio website. The portfolio website is a reflection of my skills, experiences, and passion for technology. I am Mayur Yalij, a dedicated and enthusiastic software developer with a strong background in web development. Through this portfolio, I aim to showcase my expertise, projects, and achievements in the field.
 
 ## Live Demo
 
 A live demo of the portfolio website can be accessed [here](https://portfolio-mayur-yalij.onrender.com/).
-
-
-
 
 ### Features
 
@@ -23,9 +20,6 @@ The portfolio website incorporates several features to provide an engaging and i
 
 5. Interactive Elements: To enhance user engagement, the portfolio website incorporates interactive elements such as animations, smooth scrolling, and hover effects.
 
-
-
-
 ## Technologies Used
 
 The portfolio website is built using the following technologies:
@@ -34,23 +28,3 @@ The portfolio website is built using the following technologies:
 - CSS
 - JavaScript
 - React.js (JavaScript framework)
-- Bootstrap (CSS framework)
-
-## Project Structure
-
-The repository follows the following structure:
-
-- `index.html`: The main HTML file for the portfolio website.
-- `styles/`: Directory containing CSS files for styling the website.
-- `scripts/`: Directory containing JavaScript files for implementing interactivity and functionality.
-- `images/`: Directory containing image assets used in the portfolio.
-- `README.md`: This file providing information about the repository.
-
-## Getting Started
-
-To run the portfolio website locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/mayuryalij/portfolio_mayur_yalij.git
